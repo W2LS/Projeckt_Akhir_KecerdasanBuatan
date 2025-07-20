@@ -12,5 +12,14 @@ Dataset yang digunakan berupa file `apple_quality.csv`, dan proses pelatihan ser
 
 ---
 
-## 📁 Struktur File
+
+## 🔧 Library yang Digunakan
+
+Pastikan kamu sudah menginstall library berikut:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn
+pip install seaborn
+
+
 
